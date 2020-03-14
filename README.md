@@ -39,6 +39,6 @@
 4. If this does not help reboot, retry
 5. Open an Issue on this Git Repo. 
 
-## Support orginal authors work by donating 
+## Support orginal author's work by donating 
 
 https://www.paypal.me/a13tech
