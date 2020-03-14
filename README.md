@@ -1,3 +1,5 @@
+# UNDER CONTRUCTION - I will be cleaning this up and correcting the spelling/grammar mistakes that were inherited
+
 # Install-Flash-Chip-Mac
 
 # Unsupported on Mac OS 1.13+ 
